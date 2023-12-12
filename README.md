@@ -13,6 +13,8 @@ algorithms to address this challenge by developing a robust
 system capable of summarizing and translating text content
 seamlessly.
 
+Live link of the project:-https://www.kaggle.com/code/raviranjan7284/summarization-and-translation
+
 
 CONTRIBUTIONS BY THE INDIVIDUAL TEAM MEMBERS:
 

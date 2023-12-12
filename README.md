@@ -15,6 +15,7 @@ seamlessly.
 
 
 CONTRIBUTIONS BY THE INDIVIDUAL TEAM MEMBERS:
+
 Manish Kumar(21bds036)
 I did study and run the models Bert,GPT2,pegasus.Ananlysed what the summary they have generated,evaluated using roughe score and plotted a visual graph using matplotlib.
 
